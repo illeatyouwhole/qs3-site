@@ -1995,7 +1995,7 @@ header.full .top-nav .mega-menu > ul {
 	width: 40%;
 }
 .form-control.error{
-	border-color:#f00 
+	border-color:#f00
 }
 textarea{
 	resize: none;
@@ -2012,7 +2012,7 @@ textarea{
 	width: 100%;
 	height: 100%;
 	z-index: 3;
-	background-color:rgba(255, 255, 255, 0.79); 
+	background-color:rgba(255, 255, 255, 0.79);
 	display: none;
 }
 .contact-msg .alert{
@@ -2040,7 +2040,7 @@ textarea{
 	display: table;
 	margin: 10px auto;
 	font-size:40px;
-	position: static; 
+	position: static;
 }
 .errCap{
 	margin-left: 5px;
@@ -3030,7 +3030,7 @@ textarea{
 	border-left: 0
 }
 .blog-posts:not(.lg-image) .post-item .post-info ul li.main-bg i{
-	margin:0 
+	margin:0
 }
 .blog-posts.small-image .gallery-columns-5 .gallery-item {
 	width: 32.855%;
@@ -3158,7 +3158,7 @@ textarea{
 	width:46%;
 	float:left;
 	clear: none;
-	margin-bottom: 50px 
+	margin-bottom: 50px
 }
 .timeline.full .post-item:nth-child(even){
 	float:right;
@@ -3378,7 +3378,7 @@ textarea{
 	text-align:right
 }
 .comments{
-	
+
 }
 .comment-list li{
 	position:relative
@@ -4370,7 +4370,7 @@ footer hr{
 .tags li {
 	float: left;
 	margin: 0 2px 7px;
-	
+
 	display: inline-block;
 }
 .tags li a {
@@ -4939,7 +4939,7 @@ footer .testimonials-bg p,.testimonials-name{
 	background-color: transparent;
 }
 .login-creative{
-	background:#fff url('../images/bgs/sec-bg-04.jpg') 
+	background:#fff url('../images/bgs/sec-bg-04.jpg')
 }
 .login-box{
 	border:4px #ddd solid;
@@ -5351,7 +5351,7 @@ footer .testimonials-bg p,.testimonials-name{
 	.footer-top .skew-btn{
 		display: table;
 		margin:auto;
-		float: none; 
+		float: none;
 	}
 	.footer-top p.lg-txt{
 		line-height: normal;
@@ -5466,7 +5466,7 @@ footer .testimonials-bg p,.testimonials-name{
 	}
 }
 @media (max-width: 480px) {
-    
+
 	.md-pd-40 {
 	    padding-left: 15px;
 	    padding-right: 15px;
